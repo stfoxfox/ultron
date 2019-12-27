@@ -1,0 +1,12 @@
+.field-favoritetemplate-template_id {
+    width: 750px !important;
+}
+
+#favorite-template-save {
+    margin-top: -6px;
+}
+
+.favorite-template-form-block {
+    margin-top: -8px;
+    float: right;
+}

@@ -1,0 +1,81 @@
+.without-padding-bottom {
+    padding-bottom: 0;
+}
+
+.field-stationuploadform-file label {
+    padding-top: 0 !important;
+}
+
+.actions a {
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.actions a:first-of-type {
+    font-size: 18px;
+    margin-left: 0;
+}
+
+.table .actions {
+    text-align: right;
+}
+
+i.fa {
+    cursor: pointer;
+}
+
+.tabs-container .nav-tabs > li.active > a, .tabs-container .nav-tabs > li.active > a:hover, .tabs-container .nav-tabs > li.active > a:focus {
+    border: 1px solid #e7eaec;
+    border-bottom-color: transparent;
+    background-color: #fff;
+}
+
+.tabs-container .panel-body {
+    background: #fff;
+    border: 1px solid #e7eaec;
+    border-radius: 2px;
+    padding: 20px;
+    position: relative;
+}
+
+.nav-tabs {
+    border-bottom: 0;
+}
+
+.redactor-box textarea {
+    color: #fff !important;
+}
+
+.ibox-title .webmaster {
+    float: right;
+}
+
+.img-view .thumbnail {
+    height: 133px;
+    overflow: hidden;
+}
+
+.filter-date {
+    margin-top: -8px;
+}
+
+.filter-date .btn {
+    margin-bottom: 0;
+}
+
+.daterangepicker .range {
+    float: none;
+}
+
+.alert-container {
+    padding: 0 8px 0;
+    margin: 10px 0 0 0;
+}
+
+.alert-container .alert {
+    margin-bottom: 0;
+}
+
+.grid-view {
+    overflow: auto;
+}

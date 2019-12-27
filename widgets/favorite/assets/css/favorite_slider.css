@@ -1,0 +1,45 @@
+.carousel-inner .item.left.active {
+    transform: translateX(-25%);
+}
+
+.carousel-inner .item.right.active {
+    transform: translateX(25%);
+}
+  
+.carousel-inner .item.next {
+    transform: translateX(25%)
+}
+
+.carousel-inner .item.prev {
+    transform: translateX(-25%)
+}
+  
+
+.carousel-inner .item.right, .carousel-inner .item.left { 
+    transform: translateX(0);
+}
+
+.carousel-inner {
+    height: 510px;
+}
+
+.carousel-control.left {
+    margin-left: 10px;
+}
+
+.carousel-control.right {
+    margin-right: 10px;
+}
+
+.carousel-inner{
+    width: 98%;
+    margin: auto;
+}
+
+.carousel-row{
+    padding-top: 10px;
+}
+
+.item {
+    padding-top: 7px;
+}
